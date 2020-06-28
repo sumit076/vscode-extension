@@ -1,4 +1,4 @@
-# Bootstrap 4 with CDN Boilerplate
+# Bootstrap 4 with CDN
 
 <!-- markdownlint-disable MD037 MD024 -->
 
